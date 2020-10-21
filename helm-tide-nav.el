@@ -33,3 +33,5 @@
     ;; :action (lambda (cdd) (message "%s" cdd))
     :volatile t
     :requires-pattern 3))
+
+(provide 'helm-tide-nav)
